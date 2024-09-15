@@ -17,6 +17,7 @@ commonmark==0.9.1
 debugpy==1.6.2
 decorator==5.1.1
 defusedxml==0.7.1
+disutils
 entrypoints==0.4
 executing==0.8.3
 fastjsonschema==2.15.3
@@ -51,6 +52,7 @@ pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.2.0
+pip==24.2
 prometheus-client==0.14.1
 prompt-toolkit==3.0.30
 protobuf==3.20.1
